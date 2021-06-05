@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaugika-amit
+- 👋 Hi, I’m Amit (@yaugika-amit).
 - 👀 I’m interested in learning more about Digital tools to manage content and content creation.
 - 🌱 I’m currently learning python and getting hand on with AsciiDocs and antora for web publishing.
 - 💞️ I’m looking to collaborate on content management and tools
